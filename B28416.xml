@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Profitable New-years-gift, teaching how to begin the year well, and end it comfortably: or, motives and directions for a daily exercise of Christianity, Gen. 5. 22, 24. Psal. 84.11.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28416</idno><idno type="EEBO-CITATION">99885388</idno>
+  <idno type="VID">201327</idno>
+  <idno type="EEBO-PROQUEST">2248536002</idno>
+  
+            <idno type="STC">Wing P3649</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[51]</idno>
+            <idno type="STC">ESTC R222973</idno>
+            <idno type="PROQUEST">ocm99885388</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885388e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201327)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Profitable New-years-gift, teaching how to begin the year well, and end it comfortably: or, motives and directions for a daily exercise of Christianity, Gen. 5. 22, 24. Psal. 84.11.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by J. Conyers in Little Brittain, and R. Baldwin at the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1900.</term>
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201327:1"/>
+            <head>Profitable NEW-YEARS-GIFT, Teaching how to Begin the Year Well, and End it Comfortably: OR, <hi>Motives</hi> and <hi>Directions</hi> for a <hi>Daily Exercise of Christianity,</hi> Gen. 5.24, 24. Psal. 84.11.</head>
+            <p>
+               <label>
+                  <hi>Motive</hi> I.</label>
+               <hi>ANY Day may be our last Day.</hi> The <hi>Candle</hi> of Life may be <hi>blown out</hi> before it <hi>burn out, Luk.</hi> 12.45, 46. where we may look at the <hi>Occasion</hi> of the Sin, and the <hi>Severity</hi> of its Punishment: 1. The <hi>Occasion</hi> of the Sin, <hi>His Lord delayeth his Coming.</hi> Because he has no <hi>present reward</hi> he lays aside all <hi>good Works;</hi> because of God's <hi>Gracious Forbearance,</hi> he argues a <hi>general Ac<g ref="char:EOLhyphen"/>quittance</hi> for all his <hi>Evil Works.</hi> What is look'd at at a Distance appears small, though the same beheld nigh, appears great, and terrifies. <hi>Cannons</hi> afar off don't cause trembling. 2. The <hi>Severity of his Punishment;</hi> where observe, 1. How <hi>sore</hi> his Judgment is, <hi>He shall cut him asunder</hi> (alluding to a Punishment among the Heathen, to shew the exquisite Pain of his Body) <hi>and give him his portion among Ʋnbelievers;</hi> the hottest Hell being reserved for such. Observe, 2. How <hi>sudden</hi> 'tis. Unexpected Evils are most dreadful: <hi>In a Day he looked not for it.</hi> Sudden frights overwhelm the Spirits. Those Evils that seen at a distance, have been patiently entertain'd, coming on a sudden have struck Men to Despair. The present Day's Work may be the last Actions of Life. When in our <hi>Closets,</hi> we should think with our selves, I may possibly pray, read, meditate no more; how seriously then and fervently should I do the present Work? When <hi>eating and drinking,</hi> Possibly this is the last time I may use the Creatures, therefore how should I be careful not to abuse them? When about our <hi>callings,</hi> Possibly my last Sand is running, therefore how Heavenly should I be about these Earthly things? How should he be every Moment, that has cause every Moment to expect the Coming of a Holy and Jealous God, to call him to an Account?</p>
+            <p>
+               <label>
+                  <hi>Motive</hi> II.</label>
+               <hi>God's Eye is all the Day long upon us.</hi> We may write on every Room we go into, <hi>Thou, God, seest me.</hi> In all the Passages of the Day we have that God with us that will take Notice of <hi>all,</hi> and reckon with us for <hi>all. The Eyes of the Lord are every where, beholding the Evil and the Good.</hi> The well-drawn Picture, which way soever you turn your self, seems to have its Eye upon you. God does that really which the Picture does seemingly, and that with so direct a Face as if he beheld nothing else; and surely it concerns us to <hi>be holy</hi> while we are under the Inspection of so <hi>Holy</hi> a God. This influenced <hi>David</hi>'s holy Walking. <hi>Psal.</hi> 119.68. If the Eyes of great or good Men prevail with us to be handsome and comely in our Behaviour; how much more should the eye of God?</p>
+            <p>
+               <label>
+                  <hi>Direction</hi> I.</label>
+               <hi>Begin the Day with God.</hi> Never expect a <hi>good Day,</hi> unless it begin with a <hi>good Duty.</hi> The Mind retains a Tincture all the Day of its Exercise in the Morning. When a true Watch is would up in the Morning, it's regular in its Motion all the Day. <hi>As soon as you awake lift up your hearts to Heaven.</hi> Great Persons are usually first served. Let the first Messenger you send be to the Lord of Life, to present your humble Service and Thanks to him for his Providence over you, and the Rest he has afforded you the last Nigh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ Be mindful also in some short <hi>Ejaculation,</hi> to beg his Protection all the Day. This short taste of Ejaculatory Prayer will quicken the Appetite for a full Meal of set and so<g ref="char:EOLhyphen"/>lemn Devotion. If you can after this keep your Mind intent on some divine Subject while dressing your self, you will be much fitter for secret Duties; and in in fair way to walk with God all the Day. The next thing is, what our Saviour advises to and enjoins: <hi>Enter into thy Closet, and when thou hast shut the Door, pray to thy Father in secret,</hi> &amp;c. Here's, 1st. <hi>A Precept</hi> for Prayer. The Priests under the Law, were every Morning to renew the Fire on the Altar, and offer Sacrifice, <hi>Ezra</hi> 3.3, 4. The Substance of these Shadows is, That Christians, who are <hi>a spiritual Priest-hood,</hi> should every Day have their Morning and Even<g ref="char:EOLhyphen"/>ing Addresses, <hi>to offer up spiritual Sacrifices acceptable to God by Jesus Christ,</hi> 1 <hi>Pet.</hi> 2.5. This was <hi>David</hi>'s Practice, <hi>Psal.</hi> 5.3.119.127. 2. The <hi>Promise</hi> to secret Prayer, <hi>And thy Father,</hi> &amp;c. The Sun of Righteousness, looks as well into the narrow Closet-Casements as the large Church-Windows. God's <hi>Mercies</hi> renewed upon us every Morning should engage to this, <hi>Hos.</hi> 6.3. <hi>Psal.</hi> 90.14. <q>The <hi>Damned,</hi> could we speak with them, would tell us, <hi>Life,</hi> a bare Con<g ref="char:EOLhyphen"/>tinuance on this side Hell, was a great Mercy. The <hi>Sick,</hi> and such as are trou<g ref="char:EOLhyphen"/>bled with continual Aches, tortur'd with <hi>Stone, Gout</hi> or <hi>Colick.</hi> would tell us <hi>Health</hi> is a great Mercy. The <hi>Blind,</hi> and <hi>Lame,</hi> and <hi>Deaf,</hi> that <hi>Limbs</hi> and <hi>Senses</hi> are a great Mercy. The <hi>Hungry, Naked, Houseless</hi> and <hi>Friendless,</hi> that <hi>Food, Raiment, Habitation</hi> and <hi>Friends,</hi> are great Mercies. The <hi>Saints in Heaven,</hi> could we speak with them, that the <hi>Patience of God, the Gospel of Salvation, the tenders of Grace,</hi> are great Mercies: and do not all these, which every Morning, notwithstanding our Abuse and Forfeitures are renewed upon us, deserve our sincere and solemn Thanks every Morning?</q>
+            </p>
+            <p>Our Wants and Necessities command us to be at Heaven's Gate for Supply. We are needy Creatures, and must get our Living wholly by begging. We want all the Day long forbearing, preserving, supporting Mercy. It must be Divine Power, that must enable us to follow our Callings, to stir or move about our Business, defend and protect us in our out-goings and in-comings, and pro<g ref="char:EOLhyphen"/>sper and succeed our Undertakings.</p>
+            <p>Besides, Our <hi>Dangers and Difficulties</hi> are many, and call for Earnestness in this Duty. Our Callings, every Company, all Earthly Affairs are Snares, unless sanctified by Prayer. They who walk abroad without Prayer, may fear they do it without God's Protection. The Neglect of this gives Satan a great Advantage. When <hi>Saul</hi> had left off knocking at Heaven's Gate, we soon hear him knocking at a Witch's, at the Devil's Door.</p>
+            <p>Another Duty, which concerns us in secret, is, <hi>Reading some part of God's Word.</hi> There's no acting safely, unless we act Scripturally, <hi>Prov.</hi> 6.21, 22, 23. there's no <hi>Guide</hi> nor <hi>Counsellor, Shield</hi> nor <hi>Treasure</hi> like the <hi>Scripture.</hi> God command<g ref="char:EOLhyphen"/>ed <hi>Moses</hi> to come to meet him early with the Two Tables in his Hands, and he commands us to give him a Meeting every Morning with the Two Testaments in our Hands.</p>
+            <p>
+               <label>
+                  <hi>Direct.</hi> II.</label>
+               <hi>Spend the greatest Part of the Day in your particular Calling.</hi> He that minds his Shop before his Closet, is an Atheist; and he that minds it not after, is an Hypocrite. The World is God's great Family, and he will have none in it to be idle. The Air when it's still, corrupts and putrefies; the Earth if not till'd, brings forth Thorns; Millstones, if there be no Grift, waste and wear out themselves. Action keeps the Soul sweet and clean.</p>
+            <p>
+               <label>
+                  <hi>Direct.</hi> III.</label>
+               <hi>Be watchfull all the day long.</hi> We walk every Day in the midst of Traps and Snares, Gins and Blocks; and the <hi>secure</hi> Person is as a <hi>Blind</hi> Man stumbling at every Stone. The <hi>Devil</hi> watches to devour us, and he is politick to ensnare us: He knows the length of our Foot; and if he should be quiet, our own <hi>Hearts</hi> are instead of an Hundred <hi>Traitors:</hi> And if these both should be at rest, the <hi>World,</hi> as an <hi>Harlot</hi> with her fair Breasts of Pleasure and Profit, is still watching to allure us to Folly: <hi>She is subtile of heart,</hi> &amp;c. <hi>Prov.</hi> 5.10. to the end. What reason then for Watchfulness, when we have such powerfull Enemies every Moment to encounter with? To watch in the <hi>Closet:</hi> Good Duties are not to be done between Sleeping and Waking: In <hi>Company, alone,</hi> at <hi>Bed,</hi> at <hi>Board;</hi> at all times to <hi>keep the heart with all diligence.</hi> Watch against <hi>Occasions of Sin.</hi> They that have a Brand in their Hand, had need beware of Thatch and Straw. Especially watch against <hi>your own Sin.</hi> This is the great Destroyer of Conscience. Our Beloved Sins, Sins of our Calling, Condition, con<g ref="char:EOLhyphen"/>stitution, are the weakest place at which Satan will most endeavour Entrance; and therefore require a stronger Guard, <hi>Deut.</hi> 4.9.</p>
+            <p>
+               <label>
+                  <hi>Direct.</hi> IV.</label>
+               <hi>Be carefull to Redeem Time.</hi> This is of inestimable Value in re<g ref="char:EOLhyphen"/>gard of <hi>its present Ʋse;</hi> and because <hi>when once lost it cannot be recovered.</hi> Time was given not to squander away in long Meals, needless Visits, or unnecessary Sleep, but to get our Persons Justified, our Natures Sanctified, to secure an In<g ref="char:EOLhyphen"/>terest in Christ, the Covenant of Grace, and Heaven: <hi>Walk not as Fools,</hi> &amp;c. <hi>Col.</hi> 4.5. <hi>Eph.</hi> 5.16. an Allusion to Merchants, and wise Tradesmen, who deal<g ref="char:EOLhyphen"/>ing for most precious Commodities, make the most of their Markets, and buy their Wares, when a fit time of buying them serves. The time of Life goeth <hi>Post,</hi> we are hasting to the last <hi>Stage;</hi> whether Eating or Drinking, Walking or Sitting, Buying or Selling, Sleeping or Waking, Death is making towards us. The time of our Departure hence is concluded, beyond which, whether the Work be done or no, 'tis impossible to stay a Moment. He that has but a little Paper and much to write, writes small and thick. How much has every Christian to do in the World, which if he neglect, he is lost for ever? Head<g ref="char:EOLhyphen"/>strong Lusts to subdue, Duties towards God and Man to perform, Providences and Ordinances to improve; and all this to be done in a little time. All <hi>waste</hi> time, yet all complain they <hi>want</hi> it. They complain of God, when they should of themselves; he is not <hi>penurious,</hi> but they are <hi>prodigal.</hi> Our Days are sufficient to our Duties, had we Grace to <hi>number them, and apply our hearts to wisdom:</hi> But there's no Overplus of Time to be abus'd to Folly and Vanity, or worldly Lusts, or lavish'd away in idle, unnecessary things.</p>
+            <p>
+               <label>
+                  <hi>Direct.</hi> V.</label>
+               <hi>Call your self to Account in the Evening, how you did behave your self the whole Day.</hi> Begin with the Morning. Consider, <q>Did I wake with God? What was the Frame of my Spirit in Closet and Family-Duties? in Company and Solitude? Reflect on thy Affections, whether Heavenly and a<g ref="char:EOLhyphen"/>bove the World, while thine Actions were earthly and about the World? Whether thou wast Righteous in thy particular Calling, and didst set upon it out of Conscience to God's Precept, and with an Eye to his Glory? Whether thou didst not lose an Opportunity of advantaging thy Brother's Soul, and do<g ref="char:EOLhyphen"/>ing thy God Service? Whether thou haft not fail'd in thy Thoughts, Words or Deeds, in thy Demeanour towards thy Relations, Neighbours or Strangers? Whether thou didst in all things walk according to the Rule that God hath prescrib'd thee?</q> This is the way to make the <hi>Day Pious,</hi> and the <hi>Night Plea<g ref="char:EOLhyphen"/>sant.</hi> Conscience will be more faithfull in the Day when it knows beforehand it shall be called to account at Night; and the more <hi>Conscientious</hi> we be in the Day, the more <hi>Chearfull</hi> we shall be at Night. When great Persons neglect to account with their Stewards, they tempt them to be dishonest. Our Consciences are corrupted, and will be false, if not timely prevented. But by this way of Examination.</p>
+            <list>
+               <item>1. Sin will be prevented. The <hi>Servant</hi> will be Faithfull in the Day, that expects to be called to an Account for all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Actions at Night.</item>
+               <item>2. Sin if committed, will be speedily repented of; the Wound healed before it be fester'd.</item>
+               <item>3. Our Hearts better prepar'd for Evening Duties. 'Twill make the Streams of our Sorrows for Sin, run more freely. Wounds when fresh, bleed most.</item>
+               <item>4. Hereby our Souls will be always ready for our Accounts whenever God shall Summon us to give them up. The keeping a Diary facilitates the Stew<g ref="char:EOLhyphen"/>ard's yearly Reckoning. He that will not bear the <hi>Warnings</hi> of Conscience, must expect its <hi>Woundings.</hi>
+               </item>
+            </list>
+            <p>
+               <label>
+                  <hi>Direct.</hi> VI.</label>
+               <hi>Close the Day with Prayer to God, and Reading the Scriptures.</hi> Our <hi>Bed</hi> is resembled to our <hi>Grave; Sleep</hi> to <hi>Death.</hi> 'Tis of worse Conse<g ref="char:EOLhyphen"/>quence to go to the <hi>Grave</hi> without making our <hi>Will,</hi> than to <hi>Bed</hi> without ma<g ref="char:EOLhyphen"/>king our <hi>Prayers.</hi> The <hi>Sins</hi> of the Day call for mournfull <hi>Confession:</hi> The <hi>Mer<g ref="char:EOLhyphen"/>cies</hi> of it for thankfull <hi>Acknowledgment:</hi> The <hi>Perils</hi> of the Night, for fervent <hi>Petition.</hi> Infirmity bewrayeth it self in all the Actions of fallen Man. Now if we Sin daily, we must sorrow daily. When we lie down, if there were no fear of visible Thieves, there were of invisible Devils. We cannot bolt our Doors so fast but they will get in. If God were not our Guard, we could not one Moment be in quiet from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, And is not his Protection then worth the asking?</p>
+            <epigraph>
+               <q>
+                  <bibl>Mic. 6.8.</bibl>
+                  <hi>He hath shewed the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, O man, what is good, and what doth the Lord require of thee, but to do Justice and to love Mercy, and to walk humbly with thy God?</hi>
+               </q>
+               <q>
+                  <bibl>Joh. 3.19.</bibl>
+                  <hi>This is the Condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by <hi>J. Conyers</hi> in <hi>Little Brit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain,</hi> and <hi>R. Baldwin</hi> at the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane,</hi> 169<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
